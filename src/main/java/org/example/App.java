@@ -27,7 +27,7 @@ public class App
 
         Scanner s = new Scanner(System.in);
 
-        System.out.println("What is your current age ");
+        System.out.println("What is your current age? ");
 
         stor = s.nextLine();
 
