@@ -33,7 +33,7 @@ public class App
 
         current_age = String_to_int(stor);
 
-        System.out.print("At what agee would you like to retire? ");
+        System.out.print("At what age would you like to retire? ");
 
         stor = s.nextLine();
 
